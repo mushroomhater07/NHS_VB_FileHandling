@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\bin\Debug\read from txt.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\obj\Debug\read_from_txt.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\obj\Debug\read from txt.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\bin\Debug\read from txt.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\bin\Debug\read from txt.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\bin\Debug\read from txt.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\obj\Debug\read from txt.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\obj\Debug\read from txt.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\read from txt\read from txt\obj\Debug\read from txt.pdb

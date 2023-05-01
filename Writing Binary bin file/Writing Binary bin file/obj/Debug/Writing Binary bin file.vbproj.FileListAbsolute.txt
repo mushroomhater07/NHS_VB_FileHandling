@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\bin\Debug\Writing Binary bin file.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\bin\Debug\Writing Binary bin file.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\bin\Debug\Writing Binary bin file.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\bin\Debug\Writing Binary bin file.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\obj\Debug\Writing_Binary_bin_file.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\obj\Debug\Writing Binary bin file.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\obj\Debug\Writing Binary bin file.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\obj\Debug\Writing Binary bin file.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\Writing Binary bin file\Writing Binary bin file\obj\Debug\Writing Binary bin file.pdb

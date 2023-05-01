@@ -1,0 +1,21 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score_table_write.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.pdb
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.exe.config
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.exe
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.pdb
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\bin\Debug\score table write.xml
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.vbproj.AssemblyReference.cache
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.vbproj.SuggestedBindingRedirects.cache
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score_table_write.Resources.resources
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.vbproj.GenerateResource.cache
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.vbproj.CoreCompileInputs.cache
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.exe
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.xml
+C:\Users\new\OneDrive - New Hall School\Projects\score table write\score table write\obj\Debug\score table write.pdb

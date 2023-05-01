@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\bin\Debug\colour rainbow.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\bin\Debug\colour rainbow.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\bin\Debug\colour rainbow.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\bin\Debug\colour rainbow.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\obj\Debug\colour_rainbow.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\obj\Debug\colour rainbow.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\obj\Debug\colour rainbow.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\obj\Debug\colour rainbow.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\colour rainbow\colour rainbow\obj\Debug\colour rainbow.pdb

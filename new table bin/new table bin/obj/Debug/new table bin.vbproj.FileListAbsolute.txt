@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\bin\Debug\new table bin.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\bin\Debug\new table bin.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\bin\Debug\new table bin.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\bin\Debug\new table bin.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\obj\Debug\new_table_bin.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\obj\Debug\new table bin.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\obj\Debug\new table bin.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\obj\Debug\new table bin.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\new table bin\new table bin\obj\Debug\new table bin.pdb

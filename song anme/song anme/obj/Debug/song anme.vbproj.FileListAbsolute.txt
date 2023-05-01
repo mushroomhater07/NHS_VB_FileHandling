@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\bin\Debug\song anme.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\bin\Debug\song anme.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\bin\Debug\song anme.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\bin\Debug\song anme.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\obj\Debug\song_anme.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\obj\Debug\song anme.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\obj\Debug\song anme.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\obj\Debug\song anme.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\song anme\song anme\obj\Debug\song anme.pdb

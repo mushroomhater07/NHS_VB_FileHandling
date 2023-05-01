@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc249e60-3cb3-4670-9921-74f64841dea0": {
+      "ProjectGuid": "cc249e60-3cb3-4670-9921-74f64841dea0",
+      "DisplayName": "file handling",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

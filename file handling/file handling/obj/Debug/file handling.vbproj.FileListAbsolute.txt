@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\bin\Debug\file handling.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\bin\Debug\file handling.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\bin\Debug\file handling.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\bin\Debug\file handling.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\obj\Debug\file_handling.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\obj\Debug\file handling.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\obj\Debug\file handling.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\obj\Debug\file handling.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\file handling\file handling\obj\Debug\file handling.pdb

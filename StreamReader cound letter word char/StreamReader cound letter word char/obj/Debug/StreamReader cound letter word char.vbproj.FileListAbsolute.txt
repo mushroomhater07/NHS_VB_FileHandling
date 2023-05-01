@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\bin\Debug\StreamReader cound letter word char.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\bin\Debug\StreamReader cound letter word char.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\bin\Debug\StreamReader cound letter word char.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\bin\Debug\StreamReader cound letter word char.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\obj\Debug\StreamReader_cound_letter_word_char.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\obj\Debug\StreamReader cound letter word char.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\obj\Debug\StreamReader cound letter word char.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\obj\Debug\StreamReader cound letter word char.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\StreamReader cound letter word char\StreamReader cound letter word char\obj\Debug\StreamReader cound letter word char.pdb

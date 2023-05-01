@@ -1,0 +1,9 @@
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\bin\Debug\WritingTO text file.exe.config
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\bin\Debug\WritingTO text file.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\bin\Debug\WritingTO text file.pdb
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\bin\Debug\WritingTO text file.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\obj\Debug\WritingTO_text_file.Resources.resources
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\obj\Debug\WritingTO text file.vbproj.GenerateResource.Cache
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\obj\Debug\WritingTO text file.exe
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\obj\Debug\WritingTO text file.xml
+C:\Users\chinghey.lau\Downloads\OneDrive - New Hall School\Projects\WritingTO text file\WritingTO text file\obj\Debug\WritingTO text file.pdb
